@@ -3,7 +3,7 @@
 ## Programación Orientada a Objetos
 
 El estilo de programación orientada a objetos sigue vigente aun 
-después de más de cincuenta años de su origen. El paradigma, propuesto en 1967, ha influido a los diseñadores de lenguajes de programción desde entonces y actualmente se incluye en lenguajes populares, como Java, C#, Kotlin, Javascript o Python.  
+después de más de cincuenta años de su origen. El paradigma, propuesto en 1967, ha influido a los diseñadores de lenguajes de programación desde entonces y actualmente se incluye en lenguajes populares, como Java, C#, Kotlin, Javascript o Python.  
  
 Este curso básico de programación orientada a objetos lo abordaremos con una perspectiva moderna, incluyendo algunos elementos de programación funcional y dinámica los cuales también han sido adoptados por lenguajes recientes.
 
